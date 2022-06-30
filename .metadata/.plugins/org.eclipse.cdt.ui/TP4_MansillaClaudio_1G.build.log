@@ -1,0 +1,7 @@
+02:01:09 **** Incremental Build of configuration Debug for project TP4_MansillaClaudio_1G ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\main.o" "..\\src\\main.c" 
+gcc -o TP4_MansillaClaudio_1G.exe "src\\LinkedList.o" "src\\Passenger.o" "src\\main.o" 
+
+02:01:10 Build Finished. 0 errors, 0 warnings. (took 709ms)
+

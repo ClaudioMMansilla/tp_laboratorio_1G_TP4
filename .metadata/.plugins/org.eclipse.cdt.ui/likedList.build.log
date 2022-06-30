@@ -1,0 +1,10 @@
+22:26:41 **** Incremental Build of configuration Debug for project likedList ****
+make all 
+'Building target: likedList'
+'Invoking: GCC C Linker'
+gcc  -o "likedList" ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o   
+'Finished building target: likedList'
+' '
+
+22:26:42 Build Finished. 0 errors, 0 warnings. (took 983ms)
+

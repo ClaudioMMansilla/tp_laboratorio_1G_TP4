@@ -1,0 +1,10 @@
+22:22:42 **** Build of configuration Debug for project LinkedList_old ****
+make all 
+'Building target: LinkedList_old'
+'Invoking: GCC C Linker'
+gcc  -o "LinkedList_old" ./testing/src/Employee.o ./testing/src/addNodeTest.o ./testing/src/addTest.o ./testing/src/clearTest.o ./testing/src/cloneTest.o ./testing/src/containsAllTest.o ./testing/src/containsTest.o ./testing/src/deleteLinkedListTest.o ./testing/src/getNodeTest.o ./testing/src/getTest.o ./testing/src/indexOfTest.o ./testing/src/isEmptyTest.o ./testing/src/lenTest.o ./testing/src/main_test.o ./testing/src/newTest.o ./testing/src/popTest.o ./testing/src/pushTest.o ./testing/src/removeTest.o ./testing/src/setTest.o ./testing/src/sortTest.o ./testing/src/subListTest.o  ./testing/utest.o  ./src/LinkedList.o ./src/main.o ./src/mainOld.o   
+'Finished building target: LinkedList_old'
+' '
+
+22:22:43 Build Finished. 0 errors, 0 warnings. (took 709ms)
+
